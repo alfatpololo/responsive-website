@@ -158,7 +158,7 @@ label{
         height: 0px;
     }
     .logo{
-        object-position: 0;
+        display: none;
     }
     
 }
