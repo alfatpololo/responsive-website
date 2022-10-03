@@ -158,8 +158,7 @@ label{
         height: 0px;
     }
     .logo{
-        position: none;
-        height: 0px;
+        object-position: 0;
     }
     
 }
